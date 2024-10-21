@@ -7,7 +7,7 @@
 //this is second Branch
 #include "DHT.h"
 
-#define Led_1 4 // fan light-----------------
+#define Led_1 4 // fan light-----------------gi
 #define Led_2 2
 #define Led_3 14
 #define Fan_1 16
